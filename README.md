@@ -1,6 +1,6 @@
 # Smart-Attendance-System
-“Face recognition-based attendance system using Python, OpenCV, and SQLite”
 
+“Face recognition-based attendance system using Python, OpenCV, and SQLite”
 
 # Smart Attendance System 👨‍🏫📸
 
@@ -29,6 +29,14 @@ A facial recognition-based attendance system built using Python, OpenCV, SQLite,
 
 ---
 
+2. Run `login.py` to start the app.
+3. Use default faculty login:
+
+- Username: `admin`
+- Password: `admin123`
+
+## ✨ Contribution
+
+PRs are welcome. Fork the repo and push a new branch.
+
 ## 📁 Folder Structure
-
-
